@@ -24,5 +24,5 @@ It also changes the background to a soothing **pastel color** that matches your 
 
 1. **Download or clone** this repository  
    ```bash
-   git clone https://github.com/yourusername/Moodify.git
-   cd Moodify
+    git clone https://github.com/Ishita-2210/Mood_Music_Generator.git
+   cd Mood_Music_Generator
